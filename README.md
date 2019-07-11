@@ -1,6 +1,6 @@
 # lunch-and-learn: Meet your best friend the Dev Tools ✨
 
--We are going to learn about a very important tool called DevTools
+We are going to learn about a very important tool called DevTools
 -Will be applicable to all.
 -In order for us to navgiate dev tools, we will have to learn some basic HTML & CSS. 
 -story about myself as a designer, visual learner
@@ -119,7 +119,7 @@ We will be using Google chrome's DevTools today. You can access the DevTools
 
 ### CSS
 - Change font size, width, height, background-color, color
-- Explore color picker
+- Explore color picker (sometimes developers fuck up the colors)
 - Contract Ratio (AA, AAA)
 - Use margin, padding, or positing to move elements around (hack spacing)
 - Borders for rounded corners
