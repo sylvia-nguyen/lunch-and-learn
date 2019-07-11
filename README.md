@@ -27,8 +27,18 @@ For developers, using DevTools you can know the styles that are used, the size o
 
 ## HTML Attributes
 - class names
+```HTML
+ <h2 class="cool"></h2>
+```
 - ids
-- data-tracking
+```HTML
+ <h2 class="cool" id="superUnique"></h2>
+```
+- href for anchors
+```HTML
+ <a href="www.cool.com">
+```
+
 
 ## HTML Anatomy
 - The standard for how an HTML page is structured. 
