@@ -66,40 +66,40 @@ For developers, using DevTools you can know the styles that are used, the size o
  .cool {
    position: relative;
    left: 10px;
-   op: 10px;  
+   top: 10px;  
   }
 ```
 - Margins
 ```css
  .cool {
-		  margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-		}
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   margin-right: 10px;
+  }
 ```
 - Borders
 ```css
  .cool {
-		  border: 1px solid #bada55;
-		}
+   border: 1px solid #bada55;
+  }
 ```
 - Units (PX, EM, REM)
 ```css
  .cool {
-		  font-size: 2px;
-    font-size: 2em;
-		}
+   font-size: 2px;
+   font-size: 2em;
+  }
 ```
 - Cascade / specificity
 ```css
  .cool {
-		  color: #bada55;
-		}
+   color: #bada55;
+ }
   
   .cool {
-		  color: green;
-		}
+    color: green;
+  }
 ```
 
 ## Ready to code in the DevTools!
