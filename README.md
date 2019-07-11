@@ -97,9 +97,36 @@ CSS stands for Cascading Style Sheets. It is how we style our content.
    font-size: 2em;
   }
 ```
-- Cascade / specificity
+-Inheritance
 ```css
+ body {
+   font-size: 15px
+ }
+  
  .cool {
+   color: goldenrod;
+   width: 250px;
+   background-color: black; 
+ }
+```
+
+-Specificity
+```css
+ body {
+   font-size: 15px
+ }
+  
+ .cool {
+   color: goldenrod;
+   width: 250px;
+   background-color: black; 
+   font-size: 20px;
+ }
+```
+
+- Cascade
+```css
+  .cool {
    color: #bada55;
  }
   
@@ -107,6 +134,8 @@ CSS stands for Cascading Style Sheets. It is how we style our content.
     color: green;
   }
 ```
+
+
 
 ## Ready to code in the DevTools!
 
