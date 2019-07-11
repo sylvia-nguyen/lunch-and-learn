@@ -133,6 +133,7 @@ We will be using Google chrome's DevTools today. You can access the DevTools
 
 ### Testing
 - Toggle device tool bar: Desktop, tablet, mobile
+- Resizing the browser at specific breakpoints 
 - Perform page audits and seek opportunities for improvement
 
 
