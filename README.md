@@ -123,7 +123,6 @@ We will be using Google chrome's DevTools today. You can access the DevTools
 - Perform page audits and seek opportunities for improvement
 - 
 
-### The purpose is to not offload my job onto all of you, I want to give you hacking abilities that is not necessarily ideal but gets the job done
 
 
 
