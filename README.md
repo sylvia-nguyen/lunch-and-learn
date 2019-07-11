@@ -31,6 +31,12 @@ Semantic block elements for headings look like this:
 ## What is CSS?
 CSS stands for Cascading Style Sheets. It is how we style our content. 
 
+```css
+ .cool {
+    color: red;  
+  }
+```
+
 ## HTML Attributes
 - class names
 ```HTML
