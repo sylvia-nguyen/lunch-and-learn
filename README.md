@@ -134,7 +134,6 @@ We will be using Google chrome's DevTools today. You can access the DevTools
 ### Testing
 - Toggle device tool bar: Desktop, tablet, mobile
 - Perform page audits and seek opportunities for improvement
-- 
 
 
 
