@@ -5,7 +5,7 @@ We are going to learn how the developer tools works and how to leverage this kno
 
 ## Why should we learn the Dev Tools?
 
-For developers, using the DevTools you can know the styles that are used, the size of the images, the scripts that are used, etc. You can debug and know what errors exist on the page. You can even toggle styles on or off, or change them completely, to see what effect it has on your website.
+For developers, the DevTools let's use see the styles that are used, the size of the images, the scripts that are used, etc. You can debug and know what errors exist on the page. You can even toggle styles on or off, or change them completely, to see what effect it has on your website.
 
 ## What the DevTools will help us with:
 - Tightening up the feedback loop
