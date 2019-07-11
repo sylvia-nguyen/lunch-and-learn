@@ -90,6 +90,17 @@ CSS stands for Cascading Style Sheets. It is how we style our content.
    margin-right: 10px;
   }
 ```
+
+- Padding
+```css
+ .cool {
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   padding-right: 10px;
+  }
+```
+
 - Borders
 ```css
  .cool {
