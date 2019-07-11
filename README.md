@@ -54,14 +54,13 @@ For developers, using DevTools you can know the styles that are used, the size o
  </html>
 ```
 
-
-HTML
-  Head
-  Title
-  Body
-
 ## CSS
 - Stying classes
+```css
+ .cool {
+  color: red;  
+ }
+```
 - Positioning
 - Margins
 - Borders
