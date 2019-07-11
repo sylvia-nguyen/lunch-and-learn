@@ -15,8 +15,10 @@ For developers, the DevTools let's use see the styles that are used, the size of
 - Deubugging
 
 ## What is HTML & CSS?
-- HTML stands for Hyper Text Markup Language. It is the content of a webpage made-up of semantic block elements.
-- Semantic HTML blocks
+HTML stands for Hyper Text Markup Language. It is the content of a webpage made-up of semantic block elements.
+
+## What is CSS?
+CSS stands for Cascading Style Sheets. It is how we style our content. 
 
 ## HTML Attributes
 - class names
