@@ -16,6 +16,17 @@ For developers, the DevTools let's use see the styles that are used, the size of
 
 ## What is HTML?
 HTML stands for Hyper Text Markup Language. It is the content of a webpage made-up of semantic block elements.
+Semantic block elements for headings look like this:
+```HTML
+ <h1>This is very important content</h1>
+
+ <h2>This is pretty important too</h2>
+
+ <h3>This is not as important</h3>
+
+ <h4>This is less important</h4>
+```
+
 
 ## What is CSS?
 CSS stands for Cascading Style Sheets. It is how we style our content. 
