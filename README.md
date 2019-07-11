@@ -32,7 +32,7 @@ Semantic block elements for headings look like this:
 CSS stands for Cascading Style Sheets. It is how we style our content. 
 
 ```css
- .cool {
+ h2 {
     color: red;  
   }
 ```
