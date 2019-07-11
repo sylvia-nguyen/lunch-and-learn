@@ -58,14 +58,53 @@ For developers, using DevTools you can know the styles that are used, the size o
 - Stying classes
 ```css
  .cool {
-  color: red;  
- }
+		  color: red;  
+		}
 ```
 - Positioning
+```css
+ .cool {
+		  position: relative;
+    left: 10px;
+    top: 10px;  
+		}
+```
 - Margins
+```css
+ .cool {
+		  margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+		}
+```
 - Borders
+```css
+ .cool {
+		  border: 1px solid #bada55;
+		}
+```
 - Units (PX, EM, REM)
-- Inheritance 
+```css
+ .cool {
+		  font-size: 2px;
+    font-size: 2em;
+		}
+```
+- Cascade / specificity
+```css
+ .cool {
+		  color: #bada55;
+		}
+  
+  .cool {
+		  color: green;
+		}
+```
+
+## Ready to code in the DevTools!
+
+We will be using Google chrome's DevTools today. You can access the DevTools
 
 ### The purpose is to not offload my job onto all of you, I want to give you hacking abilities that is not necessarily ideal but gets the job done
 
