@@ -1,24 +1,17 @@
 # lunch-and-learn: Meet your best friend the Dev Tools ✨
 
-We are going to learn about a very important tool called DevTools
--Will be applicable to all.
--In order for us to navgiate dev tools, we will have to learn some basic HTML & CSS. 
--story about myself as a designer, visual learner
- 
--Learning the DevTools is a gateway into learning front-end web development.
+We are going to learn how the developer tools works and how to leverage this knowledge to empower all of you to dig into a bit of code when necessary. This L&L is applicable to all disciplines 🎉
 
-## Goal of this L&L:
-- How the DevTools will help you with your day-to-day jobs / navigating
-- Learn a few basic rules around HTML & CSS
-- How to manipulate content and styling (HTML & CSS) right in the browser
-- Accessibility features (AAA b)
 
 ## Why should we learn the Dev Tools?
-For developers, using DevTools you can know the styles that are used, the size of the images, the scripts that are used, etc. You can debug and know what errors exist on the page. You can even toggle styles on or off, or change them completely, to see what effect it has on your website.
 
+For developers, using the DevTools you can know the styles that are used, the size of the images, the scripts that are used, etc. You can debug and know what errors exist on the page. You can even toggle styles on or off, or change them completely, to see what effect it has on your website.
+
+## What the DevTools will help us with:
+- Tightening up the feedback loop
 - QA-ing website designs and content
-- Quick way to prototype 
-- Performing performance and accessibility audits
+- Quick way to prototype
+- Performance and accessibility audits
 - Deubugging
 
 ## What is HTML & CSS?
@@ -120,11 +113,15 @@ We will be using Google chrome's DevTools today. You can access the DevTools
 ### CSS
 - Change font size, width, height, background-color, color
 - Explore color picker (sometimes developers fuck up the colors)
-- Contract Ratio (AA, AAA)
+- Contrast Ratio (AA, AAA)
 - Use margin, padding, or positing to move elements around (hack spacing)
-- Borders for rounded corners
+- Borders and borders-radius for rounded corners
+- Styling on hover states
 
-
+### Testing
+- Toggle device tool bar: Desktop, tablet, mobile
+- Perform page audits and seek opportunities for improvement
+- 
 
 ### The purpose is to not offload my job onto all of you, I want to give you hacking abilities that is not necessarily ideal but gets the job done
 
