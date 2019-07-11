@@ -32,6 +32,19 @@ For developers, using DevTools you can know the styles that are used, the size o
 
 ## HTML Anatomy
 - The standard for how an HTML page is structured. 
+```HTML
+ <html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+ </head>
+ <body>
+
+ </body>
+ </html>
+```
+
+
 HTML
   Head
   Title
