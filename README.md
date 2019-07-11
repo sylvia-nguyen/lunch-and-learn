@@ -14,7 +14,7 @@ For developers, the DevTools let's use see the styles that are used, the size of
 - Performance and accessibility audits
 - Deubugging
 
-## What is HTML & CSS?
+## What is HTML?
 HTML stands for Hyper Text Markup Language. It is the content of a webpage made-up of semantic block elements.
 
 ## What is CSS?
