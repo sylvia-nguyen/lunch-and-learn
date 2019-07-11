@@ -106,6 +106,26 @@ For developers, using DevTools you can know the styles that are used, the size o
 
 We will be using Google chrome's DevTools today. You can access the DevTools
 
+## Explore the following:
+
+### HTML
+- Explore the selector/pointer tool
+- Update some content in the HTML
+- Move HTML blocks around
+- Remove / toggle elements
+- Download an image
+- Upload an image
+- Check if devs are using semantic elements in the right places
+
+### CSS
+- Change font size, width, height, background-color, color
+- Explore color picker
+- Contract Ratio (AA, AAA)
+- Use margin, padding, or positing to move elements around (hack spacing)
+- Borders for rounded corners
+
+
+
 ### The purpose is to not offload my job onto all of you, I want to give you hacking abilities that is not necessarily ideal but gets the job done
 
 
