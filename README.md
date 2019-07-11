@@ -58,16 +58,16 @@ For developers, using DevTools you can know the styles that are used, the size o
 - Stying classes
 ```css
  .cool {
-		  color: red;  
-		}
+    color: red;  
+  }
 ```
 - Positioning
 ```css
  .cool {
-		  position: relative;
-    left: 10px;
-    top: 10px;  
-		}
+   position: relative;
+   left: 10px;
+   op: 10px;  
+  }
 ```
 - Margins
 ```css
